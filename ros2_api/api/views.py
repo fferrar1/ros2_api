@@ -1,3 +1,1 @@
-from django.shortcuts import render
-
-# Create your views here.
+# este arquivo será utilizado para criar as views da API

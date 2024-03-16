@@ -1,0 +1,1 @@
+# vamos usar esse arquivo para definir os endpoints dos tópicos e serviços que vamos chamar através da API
